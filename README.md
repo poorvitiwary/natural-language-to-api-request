@@ -44,6 +44,6 @@ It combines **custom Named Entity Recognition (NER)** with SpaCy and regex/date 
 - python -m unittest test.py
 
 ##  Customization
-- Can be done by providing new statement samples and providing the location of new target entity.
+- Can be done by providing new statement samples and highlighting the location of new target entity.
 
 
