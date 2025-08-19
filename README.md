@@ -29,7 +29,7 @@ It combines **custom Named Entity Recognition (NER)** with SpaCy and regex/date 
 ##  Getting Started
 
 1. **Clone this repository**  
-- git clone https://github.com/yourusername/natural-language-to-api-request.git
+- git clone https://github.com/poorvitiwary/natural-language-to-api-request.git
   cd natural-language-to-api-request
 
 2. **Install dependencies**
